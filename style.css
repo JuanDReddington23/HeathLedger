@@ -1,0 +1,11 @@
+body
+{
+    background-color: rgb(156, 199, 199);
+    font-family: papyrus;
+    text-align: justify;
+}
+body h1
+{
+    text-align: center;
+    color: green;
+}
