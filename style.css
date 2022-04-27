@@ -3,6 +3,8 @@ body
     background-color: rgb(156, 199, 199);
     font-family: papyrus;
     text-align: justify;
+    margin: 100px;
+    border: 1px solid rgb(20, 17, 17);
 }
 body h1
 {
